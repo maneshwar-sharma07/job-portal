@@ -1,0 +1,498 @@
+header{
+    background-color:#1E2A38;
+}
+.logobutton{
+    align-items:center;
+    
+}
+.headerist-div{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    margin-left:10px;
+    gap:10px;
+}
+.heading{
+    font-size:30px;
+    color:white;
+}
+.header-div{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+}
+.header2nd-div{
+    display:flex;
+    gap:30px;
+margin-right:20px;
+}
+h3{
+    color:white;
+}
+a{
+    text-decoration:none;
+    color:antiquewhite;
+}
+#loginButton{
+    border:none;
+    border-radius:10px;
+    background-color:orangered;
+    height:20px;
+    width:80px;
+    text-align:center;
+}
+h1{
+    font-size:60px;
+    color:white;
+    margin-bottom:10px;
+}
+#subheading{
+    margin-top:0px;
+    font-weight:lighter;
+    font-size:20px;
+}
+.search-div{
+    display:flex;
+    gap:3px;
+    text-align:center;
+}
+.intro-div{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.heading-div{
+    display:flex;
+    flex-direction:column;
+    width:350px;
+    margin-left:50px;
+}
+.input-button1{
+    color:black;
+    height:20px;
+    width:250px;
+    border:none;
+}
+.searchbutton{
+    border:none;
+    border-radius:10px;
+    background-color:orangered;
+    height:20px;
+    width:150px;
+    text-align:center;
+    cursor:pointer;
+}
+.categories{
+    display:flex;
+    justify-content:space-evenly;
+    margin-left:30px;
+    align-items:center;
+    margin-right:30px;
+}
+
+.categoriesbutton{
+border:none;
+background-color:ghostwhite;
+color:black;
+margin-top:10px;
+margin-bottom:10px;
+height:40px;
+width:120px;
+text-align:center;
+padding-top:20px;
+}
+.mainpara{
+    font-size:20px;
+    font-weight:bold;
+    margin-left:30px;
+}
+.blog{
+    display:flex;
+    justify-content:space-evenly;
+    margin-left:50px;
+    margin-right:50px;
+}
+.blog1{
+    display:flex;
+    flex-direction:column;
+    background-color:ghostwhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:5px;
+    padding-right:5px;
+    width:250px;
+height:300px;
+}
+.innerblog{
+    display:flex;
+align-items:center;
+}
+.footer-div{
+    background-color:rgb(35, 34, 34);
+    display:flex;
+    justify-content:space-between;
+margin-top:40px;
+}
+.footerist-div{
+    display:flex;
+    flex-direction:column;
+  
+}
+.footerpara{
+color:white;
+font-size:30px;
+}
+.footer2nd-div{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    margin-left:20px;
+    margin-right:10px;
+    margin-top:0px;
+    margin-bottom:30px;
+}
+.footer3rd-div{
+     display:flex;
+    flex-direction:column;
+    gap:20px;
+    margin-left:20px;
+    margin-right:10px;
+}
+.links{
+    display:flex;
+   gap:40px;
+}
+.footerinnerpara{
+    color:white;
+}
+.footer-button{
+    color:black;
+    background-color: white;
+    height:20px;
+    width:150px;
+    border:none;
+    border-radius:10px;
+}
+#lastpara{
+    background-color:rgb(35, 34, 34);
+    margin-top:0px;
+    color:white;
+   display:flex;
+   justify-content:center;
+}
+header{
+    background-color:#1E2A38;
+}
+.logobutton{
+    align-items:center;
+    
+}
+.headerist-div{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    margin-left:10px;
+    gap:10px;
+}
+.heading{
+    font-size:30px;
+    color:white;
+}
+.header-div{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+}
+.header2nd-div{
+    display:flex;
+    gap:30px;
+    margin-right:20px;
+}
+h3{
+    color:white;
+}
+a{
+    text-decoration:none;
+    color:antiquewhite;
+}
+#loginButton{
+    border:none;
+    border-radius:10px;
+    background-color:orangered;
+    height:20px;
+    width:80px;
+    text-align:center;
+}
+h1{
+    font-size:60px;
+    color:white;
+    margin-bottom:10px;
+}
+#subheading{
+    margin-top:0px;
+    font-weight:lighter;
+    font-size:20px;
+}
+.search-div{
+    display:flex;
+    gap:3px;
+    text-align:center;
+}
+.intro-div{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.heading-div{
+    display:flex;
+    flex-direction:column;
+    width:350px;
+    margin-left:50px;
+}
+.input-button1{
+    color:black;
+    height:20px;
+    width:250px;
+    border:none;
+}
+.searchbutton{
+    border:none;
+    border-radius:10px;
+    background-color:orangered;
+    height:20px;
+    width:150px;
+    text-align:center;
+    cursor:pointer;
+}
+.categories{
+    display:flex;
+    justify-content:space-evenly;
+    margin-left:30px;
+    align-items:center;
+    margin-right:30px;
+}
+
+.categoriesbutton{
+    border:none;
+    background-color:ghostwhite;
+    color:black;
+    margin-top:10px;
+    margin-bottom:10px;
+    height:40px;
+    width:120px;
+    text-align:center;
+    padding-top:20px;
+}
+.mainpara{
+    font-size:20px;
+    font-weight:bold;
+    margin-left:30px;
+}
+.blog{
+    display:flex;
+    justify-content:space-evenly;
+    margin-left:50px;
+    margin-right:50px;
+}
+.blog1{
+    display:flex;
+    flex-direction:column;
+    background-color:ghostwhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:5px;
+    padding-right:5px;
+    width:250px;
+    height:300px;
+}
+.innerblog{
+    display:flex;
+    align-items:center;
+}
+.footer-div{
+    background-color:rgb(35, 34, 34);
+    display:flex;
+    justify-content:space-between;
+    margin-top:40px;
+}
+.footerist-div{
+    display:flex;
+    flex-direction:column;
+  
+}
+.footerpara{
+    color:white;
+    font-size:30px;
+}
+.footer2nd-div{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    margin-left:20px;
+    margin-right:10px;
+    margin-top:0px;
+    margin-bottom:30px;
+}
+.footer3rd-div{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    margin-left:20px;
+    margin-right:10px;
+}
+.links{
+    display:flex;
+    gap:40px;
+}
+.footerinnerpara{
+    color:white;
+}
+.footer-button{
+    color:black;
+    background-color: white;
+    height:20px;
+    width:150px;
+    border:none;
+    border-radius:10px;
+}
+#lastpara{
+    background-color:rgb(35, 34, 34);
+    margin-top:0px;
+    color:white;
+    display:flex;
+    justify-content:center;
+}
+
+/* =======================
+   RESPONSIVE CSS (ADDED)
+   ======================= */
+
+/* Tablet */
+@media (max-width: 900px) {
+
+    .header-div{
+        flex-direction:column;
+        gap:15px;
+    }
+
+    .header2nd-div{
+        gap:15px;
+        margin-right:0;
+    }
+
+    h1{
+        font-size:45px;
+    }
+
+    .intro-div{
+        flex-direction:column;
+        align-items:center;
+        gap:30px;
+    }
+
+    .heading-div{
+        width:80%;
+        margin-left:0;
+        text-align:center;
+    }
+
+    .search-div{
+        justify-content:center;
+        flex-wrap:wrap;
+    }
+
+    .categories{
+        flex-wrap:wrap;
+        gap:20px;
+    }
+
+    .blog{
+        flex-wrap:wrap;
+        gap:30px;
+        justify-content:center;
+    }
+
+    .footer-div{
+        flex-direction:column;
+        align-items:center;
+        text-align:center;
+        gap:30px;
+    }
+
+    .links{
+        flex-wrap:wrap;
+        justify-content:center;
+    }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+
+    .heading{
+        font-size:22px;
+    }
+
+    h1{
+        font-size:35px;
+    }
+
+    #subheading{
+        font-size:16px;
+    }
+
+    .header2nd-div{
+        flex-direction:column;
+        align-items:center;
+        gap:10px;
+    }
+
+    .input-button1{
+        width:200px;
+    }
+
+    .searchbutton{
+        width:120px;
+    }
+
+    .categoriesbutton{
+        width:100px;
+        padding-top:10px;
+        height:auto;
+    }
+
+    .blog1{
+        width:90%;
+        height:auto;
+    }
+
+    .footerpara{
+        font-size:22px;
+    }
+
+    .footer-button{
+        width:120px;
+    }
+}
+
+/* Small Mobile */
+@media (max-width: 400px) {
+
+    h1{
+        font-size:28px;
+    }
+
+    .input-button1{
+        width:180px;
+    }
+
+    .searchbutton{
+        width:100px;
+    }
+
+    .mainpara{
+        font-size:16px;
+        margin-left:15px;
+    }
+}
